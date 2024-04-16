@@ -30,7 +30,7 @@ export default defineApp(async (_req, ctx) => {
         {/* Web Manifest */}
         <link rel="manifest" href={asset("/site.webmanifest")} />
 
-        <script async type="text/javascript" src="https://static.i-goal.com.br/kaiqueteste.js"></script>
+        <script async type="text/javascript" src="https://static.i-goal.com.br/kaique-teste.js"></script>
       </Head>
 
       {/* Rest of Preact tree */}
